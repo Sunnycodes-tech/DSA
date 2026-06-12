@@ -6,14 +6,17 @@ Here I upload my daily LeetCode problem solutions to improve problem-solving ski
 ---
 
 ## About Me
-- BCA Student
-- Learning Web Development + DSA
+- Bachelor of Computer Applications (BCA) Student
+- Aspiring Software Engineer | Learning Full-Stack Development
+- Passionate about Data Structures & Algorithms
 - Goal: Become job-ready with strong problem-solving skills
 
 ---
 
 ## Language Used
-- C++
+- **Java**
+
+ > Additional languages may be used occasionally for learning or comparison purposes.
 
 ---
 
@@ -39,14 +42,15 @@ Here I upload my daily LeetCode problem solutions to improve problem-solving ski
 - Arrays ✔
 - Strings (Upcoming)
 - HashMap (Upcoming)
-- Recursion (Upcoming)
+- Linked List (Upcoming)
+- Stack & Queue (Upcoming)
 - Trees (Upcoming)
 - Graphs (Upcoming)
-
+- Dynamic Programming (Upcoming)
 ---
 
 ## Repository Structure
-Each LeetCode problem is stored in its own folder along with the C++ solution.
+Each LeetCode problem is stored in its own folder along with the Java solution.
 
 ---
 
